@@ -4,6 +4,8 @@
 
 https://asciinema.org/a/3Wv66AAIdtFVrZik
 
+https://asciinema.org/a/81ILfClflBBRfCpw
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/MiguelJoya-01/python-project-140/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MiguelJoya-01/python-project-140/actions)
