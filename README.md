@@ -2,9 +2,11 @@
 
 ## Demo
 
-https://asciinema.org/a/3Wv66AAIdtFVrZik
+https://asciinema.org/a/DDll9Co68XYCa3JS
 
-https://asciinema.org/a/81ILfClflBBRfCpw
+https://asciinema.org/a/DLWVkyt6ujCwhTNa
+
+https://asciinema.org/a/3xsIFgRCvOKHcz7a
 
 ### Hexlet tests and linter status:
 
