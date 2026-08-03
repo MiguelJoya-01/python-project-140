@@ -10,6 +10,8 @@ https://asciinema.org/a/3xsIFgRCvOKHcz7a
 
 https://asciinema.org/a/96ZJN9j9DGEn2tJY
 
+https://asciinema.org/a/v8oDf7UUnKXHkxBr
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/MiguelJoya-01/python-project-140/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/MiguelJoya-01/python-project-140/actions)

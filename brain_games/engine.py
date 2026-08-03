@@ -15,6 +15,6 @@ def run_game(Rules, generate_question):
                 f"'{answer}' is wrong answer ;(. "
                 f"Correct answer was '{correct_answer}'."
             )        
-    print(f"Let's try again, {name}!")
-    return
+            print(f"Let's try again, {name}!")
+            return
     print(f"Congratulations, {name}!")
