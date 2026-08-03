@@ -1,7 +1,5 @@
 from random import randint
 
-from brain_games.engine import run_game
-
 RULES = "What is the result of the expression?"
 
 
@@ -20,6 +18,3 @@ def generate_question():
         question = f"{number1} * {number2}"
     return question, str(result)
 
-
-def play_calc():
-    run_game(RULES, generate_question)
