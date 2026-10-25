@@ -1,7 +1,26 @@
+# Virtual environments
 .venv/
+venv/
+
+# Python cache and compiled files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Linters and test artifacts
 .ruff_cache/
+.coverage
+htmlcov/
+
+# IDE and editor files
+.idea/
+.vscode/
 *.swp
+*.swo
+
+# Build artifacts
+build/
 dist/
+*.egg-info/
+
+# Local recordings
 *.cast

@@ -2,11 +2,22 @@ from random import randint
 
 RULES = "What number is missing in the progression?"
 
+MIN_PROGRESSION_LENGTH = 5
+MAX_PROGRESSION_LENGTH = 10
+
+MIN_START = 1
+MAX_START = 20
+
+MIN_STEP = 1
+MAX_STEP = 10
+
 
 def generate_question():
-    progression_length = randint(5, 10)
-    start = randint(1, 20)
-    step = randint(1, 10)
+    progression_length = randint(
+        MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH
+    )
+    start = randint(MIN_START, MAX_START)
+    step = randint(MIN_STEP, MAX_STEP)
 
     question = []
 
@@ -20,3 +31,4 @@ def generate_question():
     question = " ".join(map(str, question))
 
     return question, str(correct_answer)
+
