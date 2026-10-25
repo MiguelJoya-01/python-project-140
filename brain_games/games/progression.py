@@ -20,5 +20,3 @@ def generate_question():
     question = " ".join(map(str, question))
 
     return question, str(correct_answer)
-
-

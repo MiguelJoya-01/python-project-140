@@ -7,6 +7,3 @@ def generate_question():
     num = randint(1, 100)
     correct_answer = "yes" if num % 2 == 0 else "no"
     return num, correct_answer
-
-
-

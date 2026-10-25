@@ -5,6 +5,10 @@ from brain_games.games.calc import RULES, generate_question
 def brain_calc():
     run_game(RULES, generate_question)
 
-       
+
 def main():
     brain_calc()
+
+
+if __name__ == "__main__":
+    main()

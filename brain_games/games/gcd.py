@@ -15,5 +15,3 @@ def generate_question():
     question = f"{num1} {num2}"
     correct_answer = gcd(num1, num2)
     return question, correct_answer
-
-
